@@ -34359,6 +34359,225 @@ textarea {
 }
 
 
+.bg-anbook[data-v-08963e4d]{
+    background: #F6F6F6 !important;
+}
+.row-normal[data-v-08963e4d] {
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+.row > .col[data-v-08963e4d],
+.row > [class*="col-"][data-v-08963e4d] {
+    padding: 0 5px;
+}
+.row .col-50[data-v-08963e4d] {
+    width: 50% !important;
+}
+@media (min-width: 768px) {
+.row .tablet-33[data-v-08963e4d] {
+        width: 33.333333333333336% !important;
+}
+}
+@media (min-width: 1025px) {
+.row .desktop-25[data-v-08963e4d] {
+        width: 25% !important;
+}
+}
+@media (max-width: 767px) {
+.row .col-33[data-v-08963e4d] {
+        width: 33.333333333333336% !important;
+}
+}
+@media (max-width: 680px) {
+.row .col-33[data-v-08963e4d] {
+        width: 50% !important;
+}
+}
+@media (max-width: 425px) {
+.style-img-icon[data-v-08963e4d] {
+        height: auto;
+}
+.row .col-33[data-v-08963e4d] {
+        width: 100% !important;
+}
+}
+
+
+
+.text-uppercase[data-v-6f5e1c5e] {
+    text-transform: uppercase;
+}
+.sty-title[data-v-6f5e1c5e] {
+    line-height: 35px;
+    text-transform: uppercase;
+    font-size: 28px;
+}
+.show-768[data-v-6f5e1c5e] {
+    display: none;
+}
+@media (max-width: 768px) {
+.show-768[data-v-6f5e1c5e] {
+        display: block;
+}
+.sty-title[data-v-6f5e1c5e] {
+        font-size: 23px;
+}
+}
+
+
+
+.dg-btn--ok, .dg-btn--cancel{
+    max-width: 106px !important;
+}
+
+
+.click-event-dialog[data-v-63863604]{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 99;
+    top: 0;
+    cursor: pointer;
+}
+
+
+.all-style-paraphrase .assessment:before {
+    border-color: #ccc transparent #ccc transparent;
+}
+.all-style-paraphrase .form-dk-paraphrase {
+    border-radius: 5px;
+    margin: 15px 5px 5px;
+    background-color: #ffffff;
+}
+.all-style-paraphrase .block-title-form {
+    color: #222;
+}
+.all-style-paraphrase .item-title.item-label {
+    color: #222 !important;
+}
+.all-style-paraphrasev .list .item-inner {
+    line-height: 38px;
+}
+.all-style-paraphrase .block-title-form {
+    color: #222 !important;
+}
+.all-style-paraphrase select,
+input,
+textarea {
+    color: #222 !important;
+}
+.all-style-paraphrase textarea {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 14px !important;
+    margin-bottom: 10px;
+}
+.all-style-paraphrase option {
+    color: #222 !important;
+}
+.all-style-paraphrase input::-moz-placeholder {
+    color: #ccc;
+}
+.all-style-paraphrase input:-ms-input-placeholder {
+    color: #ccc;
+}
+.all-style-paraphrase input::-ms-input-placeholder {
+    color: #ccc;
+}
+.all-style-paraphrase input::placeholder {
+    color: #ccc !important;
+}
+.all-style-paraphrase textarea::-moz-placeholder {
+    color: #ccc;
+}
+.all-style-paraphrase textarea:-ms-input-placeholder {
+    color: #ccc;
+}
+.all-style-paraphrase textarea::-ms-input-placeholder {
+    color: #ccc;
+}
+.all-style-paraphrase textarea::placeholder {
+    color: #ccc !important;
+    font-size: 14px;
+}
+.all-style-paraphrase .item-title {
+    font-size: 14px;
+}
+.style-input-share input {
+    background-color: #fff;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.style-share-fb {
+    margin-top: 15px;
+    text-align: center;
+}
+.style-share-fb span {
+    background: #516eab;
+    color: #fff;
+    padding: 10px;
+    height: 35px;
+    line-height: 35px;
+    cursor: pointer;
+}
+.style-share-fb span i {
+    border-right: 1px solid #ccc;
+    height: 35px;
+    line-height: 35px;
+    padding-right: 8px;
+    margin-right: 8px;
+}
+.ios .ios-p-plr-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.style-tag-ul ul:before {
+    background-color: transparent !important;
+}
+.style-tag-ul ul:after {
+    background-color: transparent !important;
+}
+
+
+
+.style-popup-tk[data-v-7367ef28] {
+    background: #fff;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+.style-popup-tk .navbar[data-v-7367ef28]:after {
+    background: #00bf6f !important;
+}
+.style-popup-tk .box-icon[data-v-7367ef28] {
+    background: #00bf6f;
+    padding: 30px !important;
+}
+.fix-popup[data-v-7367ef28] {
+    max-width: 480px;
+    max-height: 480px;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    background: transparent;
+}
+.style-text-tk[data-v-7367ef28] {
+    padding-top: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.12);
+    color: #00bf6f;
+    font-size: 25px;
+}
+@media (max-width: 480px) {
+.style-popup-tk[data-v-7367ef28] {
+        max-width: 290px;
+}
+}
+
+
 .set-height .navbar-inner.sliding{
     max-width: 1250px;
     margin: 0 auto;
